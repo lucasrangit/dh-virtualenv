@@ -12,6 +12,7 @@
 build/
 dh_virtualenv.egg-info/
 .tox
+output/
 
 # Sphinx build
 doc/_build
